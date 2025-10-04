@@ -1,0 +1,25 @@
+h1{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    padding: 15px;
+}
+
+p.a{
+    text-align: center;
+    font-size: 23px;
+}
+
+p.b{
+    font-size: 20px;
+}
+
+h3{
+    text-align: center;
+}
+
+tr.article:hover{
+    background-color: blue;
+    color: white;
+}
