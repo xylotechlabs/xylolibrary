@@ -23,3 +23,13 @@ tr.article:hover{
     background-color: blue;
     color: white;
 }
+
+tr.article:active{
+    background-color: blue;
+    color: white;
+}
+
+tr.article:focus{
+    background-color: blue;
+    color: white;
+}
