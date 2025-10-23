@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A story about ambition, wealth, and love in the roaring twenties.",
+    "pdf": "ebooks/gatsby.pdf"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A witty and romantic tale of social class and courtship.",
+    "pdf": "ebooks/pride.pdf"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "description": "The classic sea adventure about obsession and the great white whale.",
+    "pdf": "ebooks/moby.pdf"
+  }
+]
