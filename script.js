@@ -8,7 +8,7 @@ function displayResults(ebooks) {
   results.innerHTML = '';
 
   if (ebooks.length === 0) {
-    results.innerHTML = '<p style="color:white;">No results found 😔</p>';
+    results.innerHTML = '<p style="color:white;">No results found !</p>';
     return;
   }
 
@@ -19,7 +19,8 @@ function displayResults(ebooks) {
       <h3>${book.title}</h3>
       <p><strong>Author:</strong> ${book.author}</p>
       <p>${book.description}</p>
-      <a href="${book.pdf}" target="_blank" class="btn">📘 Download PDF</a>
+      <a href="${book.pdf}" target="_blank" class="btn">Read</a>
+      <a href="${book.pdf}" download class="btn">Download PDF</a>
     `;
     results.appendChild(div);
   });
