@@ -1,4 +1,28 @@
 [
+    {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A witty romantic novel exploring love, class, and manners in 19th-century England.",
+    "pdf": "ebooks/pride_and_prejudice.pdf"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "description": "A whimsical journey through a world of nonsense, curiosity, and imagination.",
+    "pdf": "ebooks/AliceAdventureinWonderland.pdf"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "description": "Twelve classic detective stories featuring the brilliant Sherlock Holmes and Dr. Watson.",
+    "pdf": "ebooks/TheAdventuresofSherlockHolmes.pdf"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "description": "A humorous and adventurous tale of boyhood along the Mississippi River.",
+    "pdf": "ebooks/TheAdventuresofTomSawyer.pdf"
+  },
   {
     "title": "Moby Dick; or The Whale",
     "author": "Herman Melville",
