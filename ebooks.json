@@ -1,8 +1,32 @@
 [
   {
+    "title": "Moby Dick; or The Whale",
+    "author": "Herman Melville",
+    "description": "Old novel of a whale.",
+    "pdf": "ebooks/moby_dick.pdf"
+  },
+  {
     "title": "Prepare for Computer Science Olympiad (2025) - Class VII",
     "author": "Hillol Dutta Chaudhury",
     "description": "Practice set of important questions for ICSO exam by SOF (Class VII).",
     "pdf": "ebooks/prepare_for_computer_science_olympiad(2025).pdf"
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "description": "Tragedy related story written during the late 16th century",
+    "pdf": "ebooks/Romeo_and_Juliet.pdf"
+  },
+  {
+    "title": "The Cosmic Computer",
+    "author": "H. BEAM PIPER",
+    "description": "Science Fiction Novel",
+    "pdf": "ebooks/the_cosmic_computer.pdf"
+  },
+  {
+    "title": "A Journal of the First Voyage of Vasco da Gama (1497-1499)",
+    "author": "Alvaro Velho",
+    "description": "Historical Journal of Vasco da Gama.",
+    "pdf": "ebooks/vascodagama_1.pdf"
   }
 ]
